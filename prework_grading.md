@@ -3,7 +3,7 @@
 A simple app with text field & switcher to input user's school, school year, pets, and more!  
 
 ## App Walk-though  
-TODO:// Add the URL to your animated app walk-though gif in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
+<img src="https://github.com/jerrashi/iOS-102-prework/blob/main/ios-102-prework-walkthrough.gif?raw=true" width=200><br>
 
 ## Required Features  
 - [x] 1. App displays an image of a school's logo  
